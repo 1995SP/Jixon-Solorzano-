@@ -1,0 +1,12 @@
+Nombre del proyecto: El impacto de las nuevas tecnologías en la sociedad --> desarrollo y proyección de soluciones informáticas
+Integrantes: Jixon Mauricio Solórzano Proaño 
+Objetivo del sistema: Desarrollar un Sistema de Gestión de Incidentes utilizando el lenguaje de programación Python, aplicando los conocimientos adquiridos durante la asignatura para ofrecer una solución informática que facilite el registro, consulta, búsqueda, actualización y administración de incidentes de manera organizada y eficiente.
+Descripción de funcionalidades:
+Menú
+Registrar un incidente 
+Visualizar incidentes 
+Buscar un inicidente 
+Cambiar el estado de un inicidente 
+Eliminar incidente
+Generar estadisticas 
+Fecha: 7/06/2006

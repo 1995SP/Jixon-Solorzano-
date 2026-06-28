@@ -1,0 +1,47 @@
+[
+    {
+        "codigo": "001",
+        "fecha": "26/06/2026",
+        "lugar": "Farmacia",
+        "tipo": "Activacion",
+        "responsable": "Jixon",
+        "descripcion": "se registra ",
+        "estado": "Pendiente"
+    },
+    {
+        "codigo": "001",
+        "fecha": "26/06/2026",
+        "lugar": "Farmacia ",
+        "tipo": "Alarma ",
+        "responsable": "Jixon ",
+        "descripcion": "Se registra activacion ",
+        "estado": "Pendiente"
+    },
+    {
+        "codigo": "01",
+        "fecha": "12/06/2026",
+        "lugar": "Quito",
+        "tipo": "Alarma",
+        "responsable": "Mauricio",
+        "descripcion": "No estuvo pendiente",
+        "estado": "Pendiente"
+    },
+    {
+        "codigo": "003",
+        "fecha": "13/06/2026",
+        "lugar": "Ambato",
+        "tipo": "Robo",
+        "responsable": "Maria Solorzano",
+        "descripcion": "No estuvo atenta ",
+        "estado": "En proceso"
+    },
+    {
+        "codigo": "007",
+        "fecha": "20/06/2025",
+        "lugar": "Ambato",
+        "tipo": "Emergencia",
+        "responsable": "Mauricio Perez",
+        "descripcion": "No estuvo atento a la emergencia",
+        "estado": "Pendiente"
+    }
+]
